@@ -302,7 +302,7 @@ After installing AGE Extension, you may use this tool to get access to the visua
 ![Viewer gdb, and graph](/img/agce.gif)
 
 
-<h2><img height="20" src="/img/videos.png">&nbsp;&nbsp;Video Links</h2>
+<h1><img height="20" src="/img/videos.png">&nbsp;&nbsp;Video Links</h1>
 
 You can also get help from these videos. 
 
