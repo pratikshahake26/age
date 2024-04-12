@@ -295,14 +295,14 @@ This web visualization tool allows users to enter complex graph queries and expl
 Apache AGE Viewer is enhanced to proceed with extensive graph data and discover insights through various graph algorithms.
 Apache AGE Viewer will become a graph data administration and development platform for Apache AGE to support multiple relational databases: <https://github.com/apache/age-viewer>.
 
-**This is a visualization tool.**
+**This is a visualization tool**
 After installing AGE Extension, you may use this tool to get access to the visualization features.
 
 
 ![Viewer gdb, and graph](/img/agce.gif)
 
 
-<h1><img height="20" src="/img/videos.png">&nbsp;&nbsp;Video Links</h1>
+<h2><img height="20" src="/img/videos.png">&nbsp;&nbsp;Video Links</h2>
 
 You can also get help from these videos. 
 
